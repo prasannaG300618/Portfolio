@@ -82,7 +82,7 @@ export const experiences: ExperienceItem[] = [
     id: 'exp-1',
     role: 'Software Developer Engineer 1',
     company: 'Calibraint Technologies Pvt. Ltd.',
-    duration: 'JUL 2026 – JUL 2027',
+    duration: 'JUL 2025 – Present',
     description:
       'Engineered and optimized high-performance web applications, improving client retention and user engagement by 22%. Participated actively in all phases of the Full Software Development Life Cycle (SDLC), delivering project milestones 15% ahead of deadlines. Leveraged AI-assisted development and spec-driven protocols to accelerate scaffolding cycles while keeping codebase test coverage above 90%. Collaborated closely with product managers and frontend/backend engineers to analyze, refactor, and streamline software workflows.',
   },
